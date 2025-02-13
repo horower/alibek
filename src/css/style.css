@@ -1,0 +1,21 @@
+.alibek {
+    background-color: red;
+    /* Красный фон */
+    height: 100vh;
+    /* Высота = 100% высоты экрана */
+    display: flex;
+    /* Включаем Flexbox */
+    justify-content: center;
+    /* Выравниваем по центру по горизонтали */
+}
+
+.jirni {
+    font-size: 100px;
+    font-weight: bold;
+}
+
+.photo {
+    display: flex;
+    width: 470px;
+    align-items: center;
+}
